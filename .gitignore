@@ -1,5 +1,7 @@
-test
+test*
 handler.zip
 __py*
 site-packages
 \#*
+venv.sh
+
