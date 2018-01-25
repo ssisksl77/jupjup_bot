@@ -1,4 +1,4 @@
-communicate with telegram bot using AWS lambda / API gateway
+communicate with telegram bot using AWS lambda / API gateway / and python
 
 how to use.
 
